@@ -106,3 +106,14 @@ html, body{
     justify-content: space-between;
     padding: 4% 10%;
 }
+#icons{
+    width: 72%;
+    direction: rtl;
+}
+.ri-add-line{
+    height: 100px;
+    width: 100px;
+    color: white;
+    padding: 8px;
+    background-color: black;
+}
